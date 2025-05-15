@@ -12,7 +12,7 @@
 
     <groupId>com.noname</groupId>
     <artifactId>lna-processor-dto</artifactId>
-    <version>0.0.5</version>
+    <version>0.0.6</version>
     <name>lna-processor-dto</name>
     <description>lna-processor-dto</description>
 
