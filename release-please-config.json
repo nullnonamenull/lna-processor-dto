@@ -1,7 +1,0 @@
-{
-  "release-type": "maven",
-  "package-name": "lna-processor-dto",
-  "path": "lna-processor-dto",
-  "versioning-strategy": "always-bump-patch",
-  "branches": ["master"]
-}
